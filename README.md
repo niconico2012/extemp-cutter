@@ -1,5 +1,5 @@
 # Extemp Cutter
-A large, well-organized, and robustly-designed JavaFX program that lets High School Extemp teams programmatically find and save ("cut") articles from a variety of sources to the online Prepd Database through intelligent manipulation of the GUI.
+A large, well-organized, and robustly-designed JavaFX program that lets High School Extemp teams programmatically find and save ("cut") articles from a variety of sources to the online Prepd Database through intelligent manipulation of the GUI. Due to the use of intelligent screen image detection, it is able to speed up cutting significantly, cutting one article in approximately 26 seconds.
 
 The basic files in this program are:
 `Main.java` - the entry point into the program. It sets up the GUI and lets the user make multiple-criteria selections in order to cut optimally.
