@@ -2,6 +2,7 @@
 A large, well-organized, and robustly-designed JavaFX program that lets High School Extemp teams programmatically find and save ("cut") articles from a variety of sources to the online Prepd Database through intelligent manipulation of the GUI. Due to the use of intelligent screen image detection, it is able to speed up cutting significantly, cutting one article in approximately 26 seconds (most of which is taken by the Prepd Chrome Extension in validating and saving the data).
 
 The basic files in this program are:
+
 `Main.java` - the entry point into the program. It sets up the GUI and lets the user make multiple-criteria selections in order to cut optimally.
 
 `Cutter.java` - called from `Main.java` in order to interact with the cutter.
